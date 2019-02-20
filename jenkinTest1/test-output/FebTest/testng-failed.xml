@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FebTest]">
+  <test thread-count="5" name="SampleTest(failed)">
+    <classes>
+      <class name="com.jenkins.test.AmTestOne">
+        <methods>
+          <include name="testOne"/>
+        </methods>
+      </class> <!-- com.jenkins.test.AmTestOne -->
+    </classes>
+  </test> <!-- SampleTest(failed) -->
+</suite> <!-- Failed suite [FebTest] -->
