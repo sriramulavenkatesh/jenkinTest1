@@ -16,6 +16,7 @@ public class AmTestOne extends Base {
 		amTest.searchBox().sendKeys("mobile");
 		amTest.searchSubmit().click();
 		//edited from git2
+		//update from Eclipse
 		
 		
 		
