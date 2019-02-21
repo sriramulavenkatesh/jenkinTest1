@@ -15,7 +15,7 @@ public class AmTestOne extends Base {
 		AmHome amTest = new AmHome(driver);
 		amTest.searchBox().sendKeys("mobile");
 		amTest.searchSubmit().click();
-		//edited from git
+		//edited from git2
 		
 		
 		
