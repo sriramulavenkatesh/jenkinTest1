@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="FebTest">
-	<test name="SampleTest">
+	<test name="SampleTest" >
 		<classes>
 			<!--class name="com.jenkins.test.AmTestOne"-->
-			<class name="com.jenkins.test.NewTemp"></class>
+			<class name="com.jenkins.test.NewTemp"/>
 		</classes>
 	</test>
 </suite>

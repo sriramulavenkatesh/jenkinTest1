@@ -10,7 +10,8 @@ public class NewTemp {
 	public void temp() {
 		
 		System.out.println("hello world");
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
+		System.out.println("polo world");
 		
 		
 	}
